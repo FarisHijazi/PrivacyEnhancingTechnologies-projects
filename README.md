@@ -2,16 +2,6 @@
 
 This repository contains the projects that I implemented during the course [COE449-PrivacyEnhancingTechnologies at KFUPM](http://www.kfupm.edu.sa/departments/coe/Pages/en/Undergraduate-Courses.aspx) tought by Assistant Professer [Muhamad Felemban](https://faculty.kfupm.edu.sa/coe/mfelemban/).
 
-- [PrivacyEnhancingTechnologies-projects](#privacyenhancingtechnologies-projects)
-  - [1. Project: Differentially Private KMeans Clustering](#1-project-differentially-private-kmeans-clustering)
-    - [Visualizing data above 3D](#visualizing-data-above-3d)
-    - [Comparing KMeans cluster centers](#comparing-kmeans-cluster-centers)
-  - [2. Assignment1 (miniproject): KAnonymization](#2-assignment1-miniproject-kanonymization)
-    - [Objectives](#objectives)
-  - [3. Assignment3 (miniproject): Oblivious file transfer 1-out-of-n](#3-assignment3-miniproject-oblivious-file-transfer-1-out-of-n)
-  - [4. Assignment4: Bitcoin Fundementals](#4-assignment4-bitcoin-fundementals)
-  - [5. Assignment2: Differential Privacy](#5-assignment2-differential-privacy)
-
 <!-- ## Course Catalog Description
 
 The objective of this course is to provide students with a solid understanding of a set of core techniques for achieving information security and privacy.
